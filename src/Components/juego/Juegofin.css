@@ -1,0 +1,9 @@
+.juegofin {
+    display: flex;
+    flex-direction: column;
+}
+
+.fila{
+    display: flex;
+    
+}

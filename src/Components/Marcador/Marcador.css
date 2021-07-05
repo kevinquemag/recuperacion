@@ -1,0 +1,19 @@
+.marcador {
+    width: 320px;
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 5px;
+}
+
+.marcador div {
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    padding: 5px;
+    font-weight: bold;
+    background-color: #4392F1;
+}
+
+.marcador div:first-child {
+    background-color: #CD493A;
+}
